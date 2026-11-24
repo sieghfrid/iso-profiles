@@ -28,7 +28,7 @@ env:
   commonBase: common-base
   # Editions to build, in order. xivastudio must come after kde: its
   # special-commands.sh appends the generated kde Packages-Desktop to its own.
-  editions: kde xivastudio
+  editions: niri
 
 jobs:
   build:
