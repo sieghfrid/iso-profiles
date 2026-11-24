@@ -21,7 +21,7 @@ on:
         type: choice
         required: true
         default: kde
-        options: [kde, xivastudio]
+        options: [kde, xivastudio, niri]
       kernel:
         description: "Kernel"
         type: choice
